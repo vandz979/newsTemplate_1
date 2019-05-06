@@ -1,0 +1,35 @@
+.bottom img{
+    height: 10vh;
+    width: 100%; 
+}
+
+.bottom  div {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    margin-bottom: 3% !important;
+}
+
+span {
+  color: magenta; 
+} 
+
+.para span {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+  }
+
+* {
+    text-align: left;
+    
+}
+
+p {
+    font-size: 90%;
+
+}
+
+.clock p{
+    font-size: 60%;
+}

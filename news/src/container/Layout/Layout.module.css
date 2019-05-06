@@ -1,0 +1,32 @@
+.top{
+    box-sizing: border-box;
+    padding: 0 20% !important;
+    margin:0;
+    height: 100vh;
+    width: 100vw;
+    overflow: scroll;
+
+    }
+
+.blur1{
+    height: 4vh;
+    
+}
+
+
+
+.mainrow{
+    padding: 1%;
+}
+
+.row1{
+    height:50vh;
+}
+
+.row2{
+    height:20vh;
+}
+
+.col1{
+    height: 90vh;
+}

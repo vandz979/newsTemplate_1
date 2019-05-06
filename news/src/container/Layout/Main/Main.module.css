@@ -1,0 +1,30 @@
+.photo img{
+    height: 50vh;
+    width: 100%;
+      
+
+}
+
+span {
+  color: magenta;
+ 
+} 
+
+.para span {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+  } 
+
+.photo h5{
+    text-transform: uppercase;
+}
+
+.photo {
+    text-align: left;
+}
+
+.photo p {
+    font-size: 85%;
+}

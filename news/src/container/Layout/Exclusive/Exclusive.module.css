@@ -1,0 +1,30 @@
+img{
+    height: 25vh;
+    width: 100%; 
+
+}
+
+
+span {
+    color: magenta;
+   
+  } 
+  
+  .para span {
+      color: red;
+      text-transform: uppercase;
+      font-weight: bold;
+     
+    } 
+  
+ h6{
+      text-transform: uppercase;
+  }
+  
+  *{
+      text-align: left;
+  }
+  
+.para p{
+    font-size: 80%;
+}
